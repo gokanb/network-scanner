@@ -18,6 +18,7 @@ scanner to a faster threaded one and an nmap-powered version.
 | `threaded_port_scanner.py` | Scans a given list of ports in parallel; has a proper CLI. |
 | `nmap_scanner.py` | Scans a port range using nmap for richer results. |
 | `ping_sweep.py` | Pings every host in `ip_list.txt`, splits them into reachable / unreachable. |
+| `banner_grabber.py` | Reads service banners from open ports to identify software/versions. |
 
 ## Getting started
 
